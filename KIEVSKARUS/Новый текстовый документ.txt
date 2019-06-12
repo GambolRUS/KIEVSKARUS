@@ -1,0 +1,13 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.grasstable{
+	width: 100%;
+	height: 3000px;
+	background-size: 30%;
+	background-image: url('pic/grass1.jpg');
+	background-repeat: repeat repeat;
+}
