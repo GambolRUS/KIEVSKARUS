@@ -5,9 +5,15 @@
 }
 
 .grasstable{
+	position: relative;
 	width: 5000px;
 	height: 3000px;
 	background-size: 10%;
 	background-image: url('pic/grass1.jpg');
 	background-repeat: repeat repeat;
+}
+
+#canvas{
+	display: block;
+	position: absolute;
 }
