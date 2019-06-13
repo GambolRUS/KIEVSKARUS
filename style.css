@@ -19,15 +19,21 @@
 }
 
 .downif{
-	height: 300px;
-	width: 100%;
-	position: fixed;
 	background-color: brown;
 	z-index: 1000;
+	height: 120px;
+	width: 100%;
+	position: fixed;	
+	bottom: 0;
+	right: 0;
 }
 
-.if{
-	align-items: flex-end;
-	flex-direction: column;
-	display: flex;
+.upif{
+	background-color: brown;
+	z-index: 1000;
+	height: 70px;
+	width: 100%;
+	position: fixed;	
+	top: 0;
+	right: 0;
 }
